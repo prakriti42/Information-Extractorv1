@@ -10,7 +10,7 @@ This mini project consists of a python script written to extract texts as key va
 
 Input file : 
 
-
+<img width="975" alt="Image" src="https://user-images.githubusercontent.com/65444364/180029491-12518ce2-4da7-446b-94a3-1432c2ae24c0.png">
 
 Output json: 
 
